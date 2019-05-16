@@ -16,4 +16,5 @@ function Player:draw()
     -- as you can see, there was no need to define the self.x in the player constructor, 
     -- as it was already initialised in Shape
     love.graphics.draw(self.image, self.x, self.y)
+end
 ```
