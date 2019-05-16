@@ -1,7 +1,7 @@
 # Shape.lua
 A lua class I often use when making games
 
-Example of it being used with the [LOVE framework](https://www.love2d.org)
+Example of it being used with the [LOVE framework](https://www.love2d.org):
 ```lua
 Player = class(
     Shape,
