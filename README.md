@@ -2,6 +2,7 @@
 A lua class I often use when making games
 
 The class function being used is not in lua by default, but you can add it to your code from [here](http://lua-users.org/wiki/SimpleLuaClasses)
+
 (it is under the subheading "implementation of class")
 
 Example of it being used with the [LOVE framework](https://www.love2d.org):
